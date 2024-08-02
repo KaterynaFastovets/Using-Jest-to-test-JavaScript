@@ -1,0 +1,17 @@
+{
+  "name": "hw_29.1",
+  "version": "1.0.0",
+  "description": "testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Kateryna",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
